@@ -71,8 +71,6 @@ Example results showcasing the effectiveness of the enhanced NST model can be fo
 - **Qualitative Evaluation:** Visual inspection of the generated images and videos.
 - **Quantitative Evaluation:** Metrics such as Structural Similarity Index (SSIM) and Gram matrix loss are used to assess the model's performance.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
 - Inspired by the foundational work of Gatys et al., "A Neural Algorithm of Artistic Style" (2015).
