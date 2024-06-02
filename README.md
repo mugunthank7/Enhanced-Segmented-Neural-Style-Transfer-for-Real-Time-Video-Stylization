@@ -1,0 +1,2 @@
+# Enhanced-Segmented-Neural-Style-Transfer-for-Real-Time-Video-Stylization
+This project enhances Neural Style Transfer (NST) for video. It uses segmentation-based style transfer to apply different artistic styles to distinct regions and incorporates a temporal loss function for frame coherence. Performance is tracked with TensorBoard, with qualitative and quantitative evaluations validating improvements.
