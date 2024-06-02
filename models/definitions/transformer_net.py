@@ -1,16 +1,4 @@
-"""
-    Modifications to the original J.Johnson's architecture:
-        1. Instance normalization is used instead of batch normalization *
-        2. Instead of learned up-sampling use nearest-neighbor up-sampling followed by convolution **
-        3. No scaled tanh at the output of the network ***
 
-    * Ulyanov showed that this gives better results, checkout the paper here: https://arxiv.org/pdf/1607.08022.pdf
-    ** Distill pub blog showed this to have better results: http://distill.pub/2016/deconv-checkerboard/
-    *** I tried using it even opened an issue on the original Johnson's repo (written in Lua) - no improvements
-
-    Note: checkout the details about original Johnson's architecture here:
-    https://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf
-"""
 
 import torch
 
