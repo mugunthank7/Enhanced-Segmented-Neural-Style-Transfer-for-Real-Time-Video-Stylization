@@ -1,4 +1,3 @@
-
 # Enhanced Segmented Neural Style Transfer for Video Stylization
 
 ## Description
@@ -78,4 +77,3 @@ Example results showcasing the effectiveness of the enhanced NST model can be fo
 
 ## Contact
 For questions or collaborations, please contact [mugunthankesavan07@gmail.com](mailto:mugunthankesavan07@gmail.com).
-
