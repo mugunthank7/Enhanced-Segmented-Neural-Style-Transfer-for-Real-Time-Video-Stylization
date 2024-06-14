@@ -1,8 +1,10 @@
 # Enhanced Segmented Neural Style Transfer for Video Stylization
 ## Outputs
 
+![Alt text](results/background-gif.gif)
+
 ![Alt text](results/foreground-gif.gif)
-![Alt text](results/foregroundground-gif.gif)
+
 ![Alt text](results/styled-gif.gif)
 
 ## Description
