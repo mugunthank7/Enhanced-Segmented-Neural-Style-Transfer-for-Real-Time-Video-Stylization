@@ -1,4 +1,6 @@
 # Enhanced Segmented Neural Style Transfer for Video Stylization
+## Output
+![Background Styled](results/background-gif.gif)
 
 ## Description
 This project focuses on enhancing Neural Style Transfer (NST) for video stylization by incorporating segmentation-based techniques and a temporal loss function. The goal is to apply different artistic styles to distinct regions within video frames while maintaining frame-to-frame coherence. This project leverages the power of deep learning and convolutional neural networks (CNNs) to create visually appealing and artistically consistent videos.
